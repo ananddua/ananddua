@@ -70,7 +70,7 @@
 <p align="center">
 <a href="https://github.com/ananddua"><img alt="GitHub" src="https://img.shields.io/badge/github-ananddua-blue&logo=Github"></a>
 <a href="https://www.linkedin.com/in/anand-dua/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AnandDua-blue?style=flat-square&logo=linkedin"></a>
- <a href="https://www.instagram.com/ayandua_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Anand%20Dua-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ayandua_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Anand%20Dua-blue?style=flat-square&logo=instagram"></a>
 <a href="https://twitter.com/Imayandua"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Anand-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:ananddua5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ananddua5@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
 
