@@ -76,4 +76,10 @@
 </p>
 
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ananddua/count.svg" />
+</p>
+
+
 ⭐ From [Anand Dua](https://github.com/ananddua)
