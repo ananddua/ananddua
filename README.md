@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" height="400" width="100%">
-<h2> Welcome to my Github Profile !!</h2>
+<h2> Hi, Welcome to my Github Profile !!</h2>
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 
 
